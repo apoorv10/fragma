@@ -30,19 +30,33 @@ group. The age groups to be considered are: 18-35, 36-50 and 50+.
 Solution to Problem 1 and 2:
 
 Top 10 Most Viewed Movies(Top to bottom):
+
 +-------+-----------------------------------------------------+
+
 |MovieID|Title                                                |
+
 +-------+-----------------------------------------------------+
+
 |2858   |American Beauty (1999)                               |
+
 |260    |Star Wars: Episode IV - A New Hope (1977)            |
+
 |1196   |Star Wars: Episode V - The Empire Strikes Back (1980)|
+
 |1210   |Star Wars: Episode VI - Return of the Jedi (1983)    |
+
 |480    |Jurassic Park (1993)                                 |
+
 |2028   |Saving Private Ryan (1998)                           |
+
 |589    |Terminator 2: Judgment Day (1991)                    |
+
 |2571   |Matrix, The (1999)                                   |
+
 |1270   |Back to the Future (1985)                            |
+
 |593    |Silence of the Lambs, The (1991)                     |
+
 +-------+-----------------------------------------------------+
 
 Top 20 Highest Rated Movies(Top to bottom):
