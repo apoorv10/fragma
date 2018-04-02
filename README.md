@@ -30,43 +30,25 @@ group. The age groups to be considered are: 18-35, 36-50 and 50+.
 Solution to Problem 1 and 2:
 
 Top 10 Most Viewed Movies(Top to bottom):
-| First Header  | Second Header      |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-+-------+-----------------------------------------------------+
 
 |MovieID|Title                                                |
-
-+-------+-----------------------------------------------------+
-
+|-------|-----------------------------------------------------|
 |2858   |American Beauty (1999)                               |
-
 |260    |Star Wars: Episode IV - A New Hope (1977)            |
-
 |1196   |Star Wars: Episode V - The Empire Strikes Back (1980)|
-
 |1210   |Star Wars: Episode VI - Return of the Jedi (1983)    |
-
 |480    |Jurassic Park (1993)                                 |
-
 |2028   |Saving Private Ryan (1998)                           |
-
 |589    |Terminator 2: Judgment Day (1991)                    |
-
 |2571   |Matrix, The (1999)                                   |
-
 |1270   |Back to the Future (1985)                            |
-
 |593    |Silence of the Lambs, The (1991)                     |
 
-+-------+-----------------------------------------------------+
 
 Top 20 Highest Rated Movies(Top to bottom):
-+-------+---------------------------------------------------------------------------+------------------+
+
 |MovieID|Title                                                                      |Rating            |
-+-------+---------------------------------------------------------------------------+------------------+
+|-------|---------------------------------------------------------------------------|------------------|
 |2905   |Sanjuro (1962)                                                             |4.608695652173913 |
 |2019   |Seven Samurai (The Magnificent Seven) (Shichinin no samurai) (1954)        |4.560509554140127 |
 |318    |Shawshank Redemption, The (1994)                                           |4.554557700942973 |
@@ -87,15 +69,14 @@ Top 20 Highest Rated Movies(Top to bottom):
 |3435   |Double Indemnity (1944)                                                    |4.415607985480944 |
 |912    |Casablanca (1942)                                                          |4.412822049131217 |
 |670    |World of Apu, The (Apur Sansar) (1959)                                     |4.410714285714286 |
-+-------+---------------------------------------------------------------------------+------------------+
 
-#### data2.scala
+
+#### data1.scala
 Solution to Problem 3:
-
 Genre Ranking by Average Rating:
-+--------------------+-----+-----------+-----------+-----------+-----------+-----------+
+
 |Occupation          |Age  |Rank1      |Rank2      |Rank3      |Rank4      |Rank5      |
-+--------------------+-----+-----------+-----------+-----------+-----------+-----------+
+|--------------------|-----|-----------|-----------|-----------|-----------|-----------|
 |farmer              |18-35|Western    |War        |Romance    |Mystery    |Film-Noir  |
 |farmer              |50+  |Western    |Film-Noir  |War        |Romance    |Drama      |
 |writer              |18-35|Film-Noir  |Documentary|War        |Animation  |Crime      |
@@ -158,23 +139,9 @@ Genre Ranking by Average Rating:
 |homemaker           |36-50|Documentary|War        |Musical    |Drama      |Romance    |
 |tradesman/craftsman |18-35|Film-Noir  |War        |Drama      |Animation  |Western    |
 |tradesman/craftsman |50+  |War        |Film-Noir  |Adventure  |Musical    |Sci-Fi     |
-+--------------------+-----+-----------+-----------+-----------+-----------+-----------+
 
 
 
+Authors:
+Apoorv
 
-
-
-
-
-Authors
-Billie Thompson - Initial work - PurpleBooth
-See also the list of contributors who participated in this project.
-
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details
-
-Acknowledgments
-Hat tip to anyone who's code was used
-Inspiration
-etc
