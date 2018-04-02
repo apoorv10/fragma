@@ -30,6 +30,10 @@ group. The age groups to be considered are: 18-35, 36-50 and 50+.
 Solution to Problem 1 and 2:
 
 Top 10 Most Viewed Movies(Top to bottom):
+| First Header  | Second Header      |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 +-------+-----------------------------------------------------+
 
